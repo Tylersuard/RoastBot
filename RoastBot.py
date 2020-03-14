@@ -1,3 +1,7 @@
+#This work is licensed under Creative Commons Attribution-NonCommercial 3.0 Unported (CC BY-NC 3.0) 
+#That means, you must give attribution wherever you use it, and you cannot use it for profit.
+#Please see https://creativecommons.org/licenses/by-nc/3.0/ for more details.
+
 #!/bin/python3
 
 from random import randint
