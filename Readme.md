@@ -8,4 +8,4 @@ This is code for RoastBot, the only chatbot that uses artificial intelligence to
 
 To try out an updated version of the code, head on over to:
 
-# wwww.Insult-Bot.com
+# www.Insult-Bot.com
